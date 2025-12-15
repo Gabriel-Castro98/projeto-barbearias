@@ -1,6 +1,6 @@
 import Header from "@/components/header";
 import Image from "next/image";
-import banner from "@/public/banner.png";
+import banner from "@/public/banner.jpg";
 import BookingItem from "@/components/booking-item";
 
 import { getBarbershops, getPopularBarbershops } from "@/data/barbershops";
